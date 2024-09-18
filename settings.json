@@ -1,0 +1,9 @@
+{
+    "inflow_dirs": [
+        "C:/Users/Madhav Krishnan/Desktop/inflow"
+    ],
+    "outflow_dirs": {
+        ".jpeg": "C:/Users/Madhav Krishnan/Desktop/Simulated studies"
+    },
+    "any_extension_dir": ""
+}
